@@ -21,4 +21,7 @@ public class Property {
     private String description;
 
     private Long ownerId; // référence User service
+
+    public void setId(Long id) {
+    }
 }
